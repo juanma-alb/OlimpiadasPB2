@@ -1,0 +1,5 @@
+package ar.edu.unlam.pb2.dominio;
+
+public enum Area {
+	CENTRO, NORTE, SUR, ESTE, OESTE, ESQUINA_NOROESTE, ESQUINA_NORESTE, ESQUINA_SUROESTE, ESQUINA_SURESTE
+}
